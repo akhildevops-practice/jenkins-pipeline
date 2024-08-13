@@ -64,3 +64,5 @@ You can also manually trigger your job by clicking on **Build Now** on your Jenk
 You can see the status and details of your job under **Build History**. You can also click on **Console Output** to see the logs of your job.
 
 You can verify that your app is running by going to your browser and typing `http://localhost:8000`. You should see a todo app where you can add, edit, and delete tasks.
+
+Refer: https://ajitfawade.medium.com/how-to-use-docker-in-jenkins-declarative-pipeline-day-27-of-90-days-of-devops-83a79708fd30
